@@ -11,4 +11,4 @@ Shortcuts I would like to start using:
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
-[CLI commands](Docs/cli.md)
+Link to this page [CLI commands](Docs/cli.md)
